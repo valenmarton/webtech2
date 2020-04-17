@@ -6,4 +6,4 @@
 
 ### frontend runs on port 8080
 ### backend runs on port 3000
-### mongodb server should run on default port 27017
+### mongodb server runs in cloud
