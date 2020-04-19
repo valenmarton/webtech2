@@ -1,1 +1,1 @@
-for init.
+Source code is on `develop` branch
